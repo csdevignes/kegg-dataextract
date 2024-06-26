@@ -8,6 +8,4 @@ genes and metabolite names associated with each metabolic pathways.
 
 ## Improvement
 
-* Recover metabolite names
-* Merge dataset in a single json file
 * (long-term objective) Implement a python script to perform these tasks routinely
